@@ -1,5 +1,5 @@
 # opencore-efi-ryzen
-this is for a msi modern 15 b7m laptop
+this is for a msi modern 15 b7m laptop running macos 14
 
 i use AirportItlwm and uses a custom intel wifi chip so this wouldnt work stock
 
